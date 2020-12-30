@@ -4,11 +4,11 @@ Reads zipcodes from "zipcodes" file and outputs the locations found into a CSV.
 ### Installation
 
 ```sh
-$ git clone https://github.com/lfbatista/location-by-zipcode
+$ git clone https://github.com/lfbatista/locations-by-zipcode
 $ cd roaming-rates
 ```
 
-or [download](https://github.com/lfbatista/location-by-zipcode/archive/master.zip) this repository, and finally;
+or [download](https://github.com/lfbatista/locations-by-zipcode/archive/master.zip) this repository, and finally;
 
 ```sh
 $ pip install -r requirements.txt
